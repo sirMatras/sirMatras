@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minh</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">A passionate software engineer and data analyst</h3>
 
 - 🌱 I’m currently learning **Software Engineering** at the **Higher School of Economics** (HSE), Faculty of Computer Science.
 - 💼 I’m passionate about **Backend Development**, **Data Engineering**, and **Game Development**.
