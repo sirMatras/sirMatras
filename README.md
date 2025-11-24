@@ -1,43 +1,51 @@
-<h1 align="center">Hi 👋, I'm Minh</h1>
-<h3 align="center">A passionate data analyst and software engineer</h3>
+# Привет 👋, я **Минь**
 
-- 🌱 I’m currently learning **Software Engineering** at the **Higher School of Economics** (HSE), Faculty of Computer Science.
-- 💼 I’m passionate about **Data Analytics**, **Backend Development**, and **Game Development**.
-- 📫 How to reach me: **tuanminh16@yandex.com**
+🎯 **Data Analyst** | **Software Engineer** | **Game Developer**
 
-<br>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-  </a>
-</p>
+### 🚀 Обо мне
+- 💻 Студент **Факультета компьютерных наук** НИУ ВШЭ.
+- 📊 Изучаю **анализ данных**, **разработку** и **создание игр**.
+- 🎯 Цель: развиваться в области **анализа данных** и **разработки**, а также продолжать создавать высококачественные и эффективные программные решения.
 
-<br>
+---
 
+### 📄 Резюме
+[![Resume](https://img.shields.io/badge/📄_Резюме-PDF-red?style=for-the-badge)](https://yourresume.com)
 
+---
+
+### 🎓 Образование
+
+<a href="https://www.hse.ru/">
+  <img src="https://www.hse.ru/mirror/pubs/share/522215913" alt="ВШЭ" width="60"/>
+</a>
+<a href="https://cs.hse.ru/">
+  <img src="https://cs.hse.ru/mirror/pubs/share/932022850.svg" alt="ФКН" width="120"/>
+</a>  
+
+**НИУ ВШЭ**, Факультет компьютерных наук, Программная инженерия, **бакалавриат** (2023-2027)
+
+---
+
+### 🛠️ Технологии и инструменты
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-2396E6?style=for-the-badge&logo=csharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+#### Библиотеки для анализа данных:
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-FF6F61?style=for-the-badge&logo=seaborn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+### 🌍 Контакты
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/m1nhqw)  
+📧 Email: [tuanminh16@yandex.com](mailto:tuanminh16@yandex.com)
