@@ -12,7 +12,7 @@
 ---
 
 ### 📄 Резюме
-[![Resume](https://img.shields.io/badge/📄_Резюме-PDF-red?style=for-the-badge)](https://yourresume.com)
+[![Resume](https://img.shields.io/badge/📄_Резюме-PDF-red?style=for-the-badge)](https://github.com/sirMatras/sirMatras/blob/main/%D0%A0%D0%95%D0%97%D0%AE%D0%9C%D0%95%20%D0%9D%D0%B3%D1%83%D0%B5%D0%BD%20%D0%A2%D1%83%D0%B0%D0%BD%20%D0%9C%D0%B8%D0%BD%D1%8C.pdf)
 
 ---
 
