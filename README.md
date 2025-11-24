@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data analyst and software engineer</h3>
 
 - 🌱 I’m currently learning **Software Engineering** at the **Higher School of Economics** (HSE), Faculty of Computer Science.
-- 💼 I’m passionate about **Backend Development**, **Data Engineering**, and **Game Development**.
+- 💼 I’m passionate about **Data Analytics**, **Backend Development**, and **Game Development**.
 - 📫 How to reach me: **tuanminh16@yandex.com**
 
 <br>
